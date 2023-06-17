@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Software Engineer at KloudGin
+I’m Senior Software Engineer at KloudGin
 
 You can find me here: https://gauravwalia19.github.io/
 
