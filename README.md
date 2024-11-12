@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Senior Software Engineer at KloudGin
+I’m Senior Application Engineer at Oracle
 
 You can find me here: https://gauravwalia19.github.io/
 
